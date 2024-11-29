@@ -47,8 +47,7 @@ pip install requests matplotlib
    python main.py
    ```
 
-5. 생성된 그래프를 확인합니다.
-
+5. 실행 결과를 확인합니다:
 ![image](https://github.com/user-attachments/assets/e6755c50-5624-49f2-aafd-558a9bc1960c)
 
 
