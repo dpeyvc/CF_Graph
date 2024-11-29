@@ -50,47 +50,7 @@ pip install requests matplotlib
 5. 실행 결과를 확인합니다:
 ![image](https://github.com/user-attachments/assets/e6755c50-5624-49f2-aafd-558a9bc1960c)
 
-
-
-## 라이선스
-
-이 프로젝트는 MIT 라이선스에 따라 제공됩니다. 자세한 내용은 아래 라이선스를 확인하세요.
-
-```markdown
-MIT License
-
-Copyright (c) 2024 yechan6855
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 기여 방법
-
-1. 이 저장소를 포크합니다.
-2. 새 기능 브랜치를 생성합니다: `git checkout -b feature/새로운-기능`.
-3. 변경 사항을 커밋합니다: `git commit -m "새로운 기능 추가"`.
-4. 브랜치에 푸시합니다: `git push origin feature/새로운-기능`.
-5. 풀 리퀘스트를 생성합니다.
-
-
 ## 문의
-
 [이슈](https://github.com/yechan6855/CF_Graph/issues)를 통해 문의해주세요.
+
+`이 프로젝트는 MIT 라이선스에 따라 제공됩니다.`
