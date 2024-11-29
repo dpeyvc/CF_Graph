@@ -1,6 +1,8 @@
 # Codeforces Rating Graph
 
-Codeforces API를 사용하여 특정 사용자의 레이팅 변화를 시각화하는 Python 도구입니다. 이 도구는 2차원 그래프를 생성하며,
+Codeforces API를 활용하여 레이팅 변화량을 그래프로 나타냅니다.
+
+Codeforces 프로필에서 기본으로 제공되지만, 제 자기소개 페이지에 넣고 싶어서 만들어봤습니다.
 
 Codeforces 레이팅 범위를 반영한 동적 배경과 대회 이름 및 레이팅 변화를 시각적으로 표시합니다.
 
