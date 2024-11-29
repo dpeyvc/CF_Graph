@@ -52,5 +52,3 @@ pip install requests matplotlib
 
 ## 문의
 [이슈](https://github.com/yechan6855/CF_Graph/issues)를 통해 문의해주세요.
-
-`이 프로젝트는 MIT 라이선스에 따라 제공됩니다.`
