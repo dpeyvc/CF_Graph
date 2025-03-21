@@ -33,5 +33,5 @@ pip install requests matplotlib
    ```
 
 실행 결과를 확인합니다:
-<img src="https://gist.github.com/user-attachments/assets/39f393fb-647f-4acd-a605-c7275d61529d">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136340169/425249122-39f393fb-647f-4acd-a605-c7275d61529d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250321%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250321T021829Z&X-Amz-Expires=300&X-Amz-Signature=eb1f77da9622e184973e0f3b7a0327361e2fa397099462eeec27dc49852a1bab&X-Amz-SignedHeaders=host">
 
