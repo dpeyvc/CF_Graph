@@ -16,13 +16,8 @@ Codeforces 레이팅 범위를 반영한 동적 배경과 대회 이름 및 레�
 
 
 ## 요구 사항
-
-이 도구를 사용하려면 아래 Python 라이브러리가 필요합니다:
-
 - `requests`: Codeforces API 데이터를 가져오기 위해 사용됩니다.
 - `matplotlib`: 시각화를 위해 사용됩니다.
-
-아래 명령어를 통해 필수 라이브러리를 설치할 수 있습니다:
 
 ```bash
 pip install requests matplotlib
@@ -31,25 +26,12 @@ pip install requests matplotlib
 
 ## 사용법
 
-1. 이 저장소를 클론합니다:
+1. `user_handle` 변수에 자신의 핸들을 입력합니다.
+2. 아래의 명령어를 통해 main.py 파일을 실행합니다.
    ```bash
-   git clone https://github.com/yechan6855/CF_Graph.git
-   cd CF_Graph
+   python3 main.py
    ```
 
-2. `main.py` 파일을 엽니다.
+실행 결과를 확인합니다:
+![image](https://gist.github.com/user-attachments/assets/39f393fb-647f-4acd-a605-c7275d61529d)
 
-3. `user_handle` 변수에 Codeforces 사용자의 핸들을 입력합니다:
-   ```python
-   user_handle = "{handle}"  # 원하는 핸들로 변경
-   ```
-
-4. 스크립트를 실행합니다:
-   ```bash
-   python main.py
-   ```
-5. 실행 결과를 확인합니다:
-![image](https://github.com/user-attachments/assets/e6755c50-5624-49f2-aafd-558a9bc1960c)
-
-## 문의
-[이슈](https://github.com/yechan6855/CF_Graph/issues)를 통해 문의해주세요.
