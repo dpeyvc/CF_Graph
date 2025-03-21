@@ -33,5 +33,5 @@ pip install requests matplotlib
    ```
 
 실행 결과를 확인합니다:
-![image](https://gist.github.com/user-attachments/assets/39f393fb-647f-4acd-a605-c7275d61529d)
+<img src="https://gist.github.com/user-attachments/assets/39f393fb-647f-4acd-a605-c7275d61529d">
 
